@@ -8,6 +8,7 @@ The latest major release is [.NET Core 3.1](release-notes/3.1). The latest patch
 
 * [.NET Core 3.1 SDK](release-notes/3.1/README.md)
 
+
 ## .NET Core Releases and Daily Builds
 
 * [.NET Core released builds](release-notes/README.md)
